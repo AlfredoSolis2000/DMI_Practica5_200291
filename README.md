@@ -22,5 +22,5 @@
 |  Característica |  Información |
 | :------------: | :------------: |
 | Nombre  |  Practica 5 Aplicación en Flutter y StatelesWidgets |
-| Descripción  | Aplicacion en flutter Stateleswidgets  |
+| Descripción  | Aplicacion en flutter Stateleswidgets, realizada las investigaciones sobre los stateleswidgets, se realizo una aplicacion la cual contenia ciertos tipos de los mismos, donde cada uno de ellos mostraba cierta información en la pastalla con la cual no podemos tener ciertp tipo de interacción.  |
 |  Fecha de Carga | 13/09/23  |
