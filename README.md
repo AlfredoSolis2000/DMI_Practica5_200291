@@ -22,5 +22,5 @@
 |  Característica |  Información |
 | :------------: | :------------: |
 | Nombre  |  Practica 5 Aplicación en Flutter y StatelesWidgets |
-| Descripción  | Primera aplicacion en flutter  |
+| Descripción  | Aplicacion en flutter Stateleswidgets  |
 |  Fecha de Carga | 13/09/23  |
